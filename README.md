@@ -26,8 +26,8 @@
 </ul>
 
 <h2>🔗 Related Repo</h2>
-<p><a href="https://github.com/your-username/webhook-repo">Webhook Receiver & UI Repo</a></p>
+<p><a href="https://github.com/Harshal-Kamble/webhook-repo">Webhook Receiver & UI Repo</a></p>
 
 <h2>🧑‍💻 Author</h2>
 <p><strong>Harshal Kamble</strong><br>
-<a href="https://github.com/harshalkamble25b">GitHub Profile</a></p>
+<a href="https://github.com/Harshal-Kamble">GitHub Profile</a></p>
